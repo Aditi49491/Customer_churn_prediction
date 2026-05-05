@@ -32,7 +32,7 @@ Model Export (Pickle)
 Key Findings
 
 Contract type is the strongest churn predictor — month-to-month customers churn at 3x the rate of annual contract holders
-Tenure matters — customers in their first 12 months are at highest risk
+Tenure matters  customers in their first 12 months are at highest risk
 Monthly charges above ₹65 correlate with significantly higher churn
 Customers without tech support or online security are more likely to leave
 
